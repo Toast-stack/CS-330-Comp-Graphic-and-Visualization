@@ -63,3 +63,6 @@ The knowledge and experience gained from this project will be valuable in my fut
 - **Source Code**: Contains the main program files (`Source.cpp`, `camera.h`, `stb_image.h`).
 - **Assets**: Includes textures (`wood.jpg`, `paper.jpg`, `pencil.jpg`, `keyboard.jpg`, `mouse.jpg`).
 - **Documentation**: Project review documents outlining design decisions and development progress.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
